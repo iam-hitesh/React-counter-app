@@ -1,5 +1,7 @@
 ## Counter application
 
+- Find live version at https://suspicious-curie-911e91.netlify.app/
+
 ##### Dependencies that was added to the app
 (A React-Redux based application)
 - React
@@ -24,8 +26,6 @@ npm start
 ```
 visit http://localhost:8080 to view it in the browser.
 ```
-
-- Find live version at https://suspicious-curie-911e91.netlify.app/
 
 ### Folder Structure
 ```
