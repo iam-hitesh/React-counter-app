@@ -25,7 +25,7 @@ npm start
 visit http://localhost:8080 to view it in the browser.
 ```
 
-- Find live version at https://dreamy-mcclintock-80247e.netlify.app/
+- Find live version at https://suspicious-curie-911e91.netlify.app/
 
 ### Folder Structure
 ```
